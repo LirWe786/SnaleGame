@@ -7,7 +7,7 @@ button{
     outline: none;
     color: white;
     border-radius: 7px;
-    background-color: purple;
+    background-color: rgb(85, 4, 225);
     font-size: 24px;
     font-family: monospace;
 }
