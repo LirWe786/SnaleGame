@@ -13,3 +13,14 @@
 .card img{
     width: 250px;
 }
+.priceButtonDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.price{
+    font-size: 18px;
+
+}
