@@ -1,0 +1,11 @@
+
+button{
+    width: 150px;
+    height: 40px;
+    border: none;
+    background: none;
+    outline: none;
+    color: white;
+    border-radius: 7px;
+    background-color: purple;
+}
